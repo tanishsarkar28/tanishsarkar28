@@ -30,6 +30,9 @@ I'm a **Frontend Developer** from India with a background in Computer Science En
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Tools & Platforms
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -45,15 +48,15 @@ I'm a **Frontend Developer** from India with a background in Computer Science En
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tanishsarkar2802&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tanishsarkar28&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishsarkar2802&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishsarkar28&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanishsarkar2802&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanishsarkar28&theme=tokyonight&hide_border=true" width="60%"/>
 
 </div>
 
@@ -64,8 +67,7 @@ I'm a **Frontend Developer** from India with a background in Computer Science En
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanish-sarkar28/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/sarkartanish2802)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanishsarkar2802)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanishsarkar28)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarkartanish2802@gmail.com)
 
 </div>
@@ -74,7 +76,7 @@ I'm a **Frontend Developer** from India with a background in Computer Science En
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=tanishsarkar2802&label=Profile+Views&color=4FC3F7&style=flat-square" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=tanishsarkar28&label=Profile+Views&color=4FC3F7&style=flat-square" alt="Profile Views"/>
 
 <br/><br/>
 
