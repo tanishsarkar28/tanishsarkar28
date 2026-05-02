@@ -47,17 +47,16 @@ I'm a **Frontend Developer** from India with a background in Computer Science En
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tanishsarkar28&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+<a href="https://github.com/tanishsarkar28">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanishsarkar28&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" height="180" onerror="this.src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tanishsarkar28&show_icons=true&theme=tokyonight&hide_border=true'"/>
+</a>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishsarkar28&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
+<a href="https://github.com/tanishsarkar28">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishsarkar28&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&langs_count=8" height="180" onerror="this.src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tanishsarkar28&layout=compact&theme=tokyonight&hide_border=true'"/>
+</a>
 </div>
-
 <div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanishsarkar28&theme=tokyonight&hide_border=true" width="60%"/>
-
 </div>
 
 ---
