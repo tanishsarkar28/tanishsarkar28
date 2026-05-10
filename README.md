@@ -25,13 +25,10 @@ I'm a **Frontend Developer** from India with a background in Computer Science En
 
 <div align="center">
 
-<a href="https://tanishsarkar28.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tanishsarkar28.vercel.app/)
 
-<br/><br/>
-
-✨ Explore my projects, skills, and development journey through my interactive portfolio website.
+🌐 **Live Website:**  
+https://tanishsarkar28.vercel.app/
 
 </div>
 
