@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Tanish%20Sarkar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Computer%20Science%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Tanish%20Sarkar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Computer%20Science%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Building+elegant+user+experiences;Turning+ideas+into+reality+with+code;Passionate+about+clean%2C+modern+UI;Always+learning%2C+always+growing)](https://git.io/typing-svg)
@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Frontend Developer** from India with a background in Computer Science Engineering. I care deeply about crafting intuitive, visually polished interfaces that solve real problems. Whether it's pixel-perfect layouts or smooth interactions, I bring both technical precision and creative sensibility to every project.
+I'm a **Full Stack Developer** from India with a background in Computer Science Engineering. I care deeply about crafting intuitive, visually polished interfaces that solve real problems. Whether it's pixel-perfect layouts or smooth interactions, I bring both technical precision and creative sensibility to every project.
 
 - 🔭 Currently working on exciting frontend projects — check them out at **[github.com/tanishsarkar2802](https://github.com/tanishsarkar2802)**
 - 🌱 Continuously learning and exploring modern web technologies
